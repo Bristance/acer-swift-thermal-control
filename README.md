@@ -3,6 +3,8 @@
 This standalone COSMIC applet exposes the Acer Swift thermal profiles from
 `acer-swift-thermal-control` in the panel.
 
+This is an expansion of a script created by Lukas Fink which can be found at https://github.com/fink-lukas/acer-swift-thermal-control.
+
 ## What it does
 
 - Shows the currently selected fan profile in the panel
