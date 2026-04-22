@@ -5,6 +5,13 @@ This standalone COSMIC applet exposes the Acer Swift thermal profiles from
 
 This is an expansion of a script created by Lukas Fink which can be found at https://github.com/fink-lukas/acer-swift-thermal-control.
 
+---
+
+## ⚠️ WARNING: Use at Your Own Risk
+Triggering raw ACPI methods bypasses standard OS safety boundaries. While these commands have been verified on an Acer SFX14-72G and SFX14-71G, incorrect usage or different firmware versions **could theoretically damage your hardware**. The author is not responsible for any issues.
+
+---
+
 ## What it does
 
 - Shows the currently selected fan profile in the panel
