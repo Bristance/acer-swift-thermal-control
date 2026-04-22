@@ -27,6 +27,11 @@ install the desktop file from:
 
 After that, add the applet to your COSMIC panel configuration.
 
+## Easy Install
+Install the applet by simply running the install script from the repository folder:
+
+- `./install.sh --system`
+
 # Linux Build Recipe
 
 This applet targets the COSMIC/Wayland stack and should be built on Linux.
