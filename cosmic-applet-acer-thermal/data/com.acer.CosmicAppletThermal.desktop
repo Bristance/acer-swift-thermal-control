@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Acer Thermal
+Comment=Select Acer Swift thermal fan profiles
+Type=Application
+Exec=cosmic-applet-acer-thermal
+Terminal=false
+Categories=COSMIC;HardwareSettings;
+Keywords=COSMIC;Applet;Acer;Thermal;Fan;Profile;
+Icon=utilities-system-monitor-symbolic
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicShrinkable=true
+X-CosmicHoverPopup=Auto
+X-OverflowPriority=50
